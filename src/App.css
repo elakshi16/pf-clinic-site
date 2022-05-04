@@ -1,13 +1,18 @@
 .App {
-  text-align: center;
-  font-size: 20px;
+  font-size: 16px;
+  margin: 10px;
 }
 
 #Downloads {
+  text-align: center;
   display: flex;
   flex-direction: column;
 }
 
-a {
+.a-Download {
   margin: 10px;
+}
+
+.email {
+  margin: 0px;
 }
